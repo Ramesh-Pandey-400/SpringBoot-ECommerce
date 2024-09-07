@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92f9f134-6082-4a15-9283-2ef47d181387" name="Default Changelist" comment="Springboot - ECommerce Application" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2kEqClDqJZo63IDeijv6SWKNqLm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/question-service" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.application.firstapp.repository" />
+      <recent name="com.application.firstapp.exception" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SpringBoot\Project\E-Commerce\E-Commerce\src\main\java\com\application\firstapp\service" />
+      <recent name="E:\SpringBoot\Project\E-Commerce\E-Commerce\src\main\java\com\application\firstapp\controller" />
+      <recent name="E:\SpringBoot\Project\E-Commerce\E-Commerce\src\main\java\com\application\firstapp\repository" />
+      <recent name="E:\SpringBoot\Project\E-Commerce\E-Commerce\src\main\java\com\application\firstapp\payload" />
+      <recent name="E:\SpringBoot\Project\E-Commerce\E-Commerce\src\main\java\com\application\firstapp\model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\SpringBoot\Project\E-Commerce\E-Commerce\src\main\java\com\application\firstapp\security" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ECommerceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.application.firstapp.ECommerceApplication" />
+      <module name="E-Commerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.application.firstapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ECommerceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92f9f134-6082-4a15-9283-2ef47d181387" name="Default Changelist" comment="" />
+      <created>1722858960669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722858960669</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Code till JWT Custom Authentication implementation.">
+      <created>1724655724702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724655724702</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding Product to the Cart">
+      <created>1724767562880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724767562880</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Get product from Carts">
+      <created>1724825874757</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724825874757</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updating and Deleting product in cart">
+      <created>1724945017424</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724945017424</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Some Loose ends and Connecting Project with PostgreSQL">
+      <created>1725027369163</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725027369163</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Address functionality with get,add,update and delete address">
+      <created>1725112763567</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725112763567</updated>
+    </task>
+    <task id="LOCAL-00007" summary="order and Payment in our e-commerce App">
+      <created>1725170671365</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725170671366</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Code till JWT Custom Authentication implementation." />
+    <MESSAGE value="Adding Product to the Cart" />
+    <MESSAGE value="Get product from Carts" />
+    <MESSAGE value="Updating and Deleting product in cart" />
+    <MESSAGE value="Some Loose ends and Connecting Project with PostgreSQL" />
+    <MESSAGE value="Address functionality with get,add,update and delete address" />
+    <MESSAGE value="order and Payment in our e-commerce App" />
+    <option name="LAST_COMMIT_MESSAGE" value="order and Payment in our e-commerce App" />
+  </component>
+</project>
